@@ -1,0 +1,10 @@
+C:\Users\61vah\source\repos\WeatherProQQ\WeatherProQQ\bin\Debug\WeatherProQQ.exe.config
+C:\Users\61vah\source\repos\WeatherProQQ\WeatherProQQ\bin\Debug\WeatherProQQ.exe
+C:\Users\61vah\source\repos\WeatherProQQ\WeatherProQQ\bin\Debug\WeatherProQQ.pdb
+C:\Users\61vah\source\repos\WeatherProQQ\WeatherProQQ\obj\Debug\WeatherProQQ.csproj.AssemblyReference.cache
+C:\Users\61vah\source\repos\WeatherProQQ\WeatherProQQ\obj\Debug\WeatherProQQ.Form1.resources
+C:\Users\61vah\source\repos\WeatherProQQ\WeatherProQQ\obj\Debug\WeatherProQQ.Properties.Resources.resources
+C:\Users\61vah\source\repos\WeatherProQQ\WeatherProQQ\obj\Debug\WeatherProQQ.csproj.GenerateResource.cache
+C:\Users\61vah\source\repos\WeatherProQQ\WeatherProQQ\obj\Debug\WeatherProQQ.csproj.CoreCompileInputs.cache
+C:\Users\61vah\source\repos\WeatherProQQ\WeatherProQQ\obj\Debug\WeatherProQQ.exe
+C:\Users\61vah\source\repos\WeatherProQQ\WeatherProQQ\obj\Debug\WeatherProQQ.pdb
